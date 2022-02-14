@@ -1,10 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDhcEkOvYGOBCAZYMsl8nws_jTEX6Ab6_k",
-  authDomain: "video-chat-1742f.firebaseapp.com",
-  projectId: "video-chat-1742f",
-  storageBucket: "video-chat-1742f.appspot.com",
-  messagingSenderId: "929099009457",
-  appId: "1:929099009457:web:232b259c3adbde82928190",
+ // your firebase config
 };
 
 // Initialize Firebase
